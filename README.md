@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 
 
 
+https://kaleidoscopic-gnome-1f4673.netlify.app  hosted url for this website halfway through
